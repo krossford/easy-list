@@ -1,4 +1,4 @@
-package com.kross.wechatmoments.recyclerview
+package com.kross.easylist
 
 import android.util.SparseArray
 import android.view.ViewGroup

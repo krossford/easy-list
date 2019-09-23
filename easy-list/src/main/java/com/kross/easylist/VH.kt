@@ -1,9 +1,8 @@
-package com.kross.wechatmoments.recyclerview
+package com.kross.easylist
 
 import android.util.Log
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
-import com.kross.planb.MainActivity.Companion.LOG_TAG
 
 class VH(itemView: View) : RecyclerView.ViewHolder(itemView) {
 
