@@ -1,1 +1,1 @@
-include ':app', ':EasyRecyclerView'
+include ':app', ':easy-list'
