@@ -19,7 +19,9 @@ abstract class Cell<T> {
         data = d
     }
 
-    abstract fun id(): Long
+    fun id(): Long {
+        return 0L
+    }
 
     /**
      * create view holder and view
